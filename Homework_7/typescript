@@ -1,0 +1,141 @@
+Script started on 2023-05-04 17:50:18-0500
+]0;epmeyers@turing: ~/Linuxstuff/Homework 7[01;32mepmeyers@turing[00m:[01;34m~/Linuxstuff/Homework 7[00m$ exit./homework7.exe g++ -Wall hw7.cpp person.cpp table.cpp -o homework7.exe[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls -l[Kvim typescript [10Pls -avim typescript [10Pls -lg++ -Wall hw7.cpp person.cpp table.cpp -o homework7.exe
+]0;epmeyers@turing: ~/Linuxstuff/Homework 7[01;32mepmeyers@turing[00m:[01;34m~/Linuxstuff/Homework 7[00m$ g++ -Wall hw7.cpp person.cpp table.cpp -o homework7.exe[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[K./homework7.exe 
+---------------------
+|Name:	Evan Meyers |
+|UAID:	010955257   |
+---------------------
+
+-----------------------------------------------------
+| Choose one of the following options:              |
+|(1) Search for person using their first name       |
+|(2) Search for person using their last name        |
+|(3) Search for people using a range of birth years |
+|(4) Quit the program                               |
+-----------------------------------------------------
+1
+
+Enter the first name to search (Capitalization matters): Charles
+
+-------------------------------------------------------------------------------------------------------------
+     Name:  Charles Babbage
+ Lifespan:  1791 - 1871
+      Age:  80
+Biography:  Designed worlds first computers (the difference engine and the analytical engine) with Ada Lovelace.
+-------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------
+     Name:  Charles Norris
+ Lifespan:  1940 - Now
+      Age:  83
+Biography:  All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.
+-------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------
+| Choose one of the following options:              |
+|(1) Search for person using their first name       |
+|(2) Search for person using their last name        |
+|(3) Search for people using a range of birth years |
+|(4) Quit the program                               |
+-----------------------------------------------------
+1
+
+Enter the first name to search (Capitalization matters): errortest
+
+There is no match to the name give.
+
+-----------------------------------------------------
+| Choose one of the following options:              |
+|(1) Search for person using their first name       |
+|(2) Search for person using their last name        |
+|(3) Search for people using a range of birth years |
+|(4) Quit the program                               |
+-----------------------------------------------------
+2
+
+Enter the last name to search (Capitalization matters): Norris
+
+-------------------------------------------------------------------------------------------------------------
+     Name:  Charles Norris
+ Lifespan:  1940 - Now
+      Age:  83
+Biography:  All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.
+-------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------
+| Choose one of the following options:              |
+|(1) Search for person using their first name       |
+|(2) Search for person using their last name        |
+|(3) Search for people using a range of birth years |
+|(4) Quit the program                               |
+-----------------------------------------------------
+2
+
+Enter the last name to search (Capitalization matters): errortest
+
+There is no match to the name give.
+
+-----------------------------------------------------
+| Choose one of the following options:              |
+|(1) Search for person using their first name       |
+|(2) Search for person using their last name        |
+|(3) Search for people using a range of birth years |
+|(4) Quit the program                               |
+-----------------------------------------------------
+4 3
+
+Enter range of birth years to search (Enter years like following example: 1900 to 1910 ---> 1900 1910): 1900 1920
+
+-------------------------------------------------------------------------------------------------------------
+     Name:  John vonNeumann
+ Lifespan:  1903 - 1957
+      Age:  54
+Biography:  Inventor of the modern computer architecture.
+-------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------
+     Name:  Alonzo Church
+ Lifespan:  1903 - 1995
+      Age:  92
+Biography:  Invented Lambda Calculus, considered the first programming language ever.
+-------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------
+     Name:  Grace Hopper
+ Lifespan:  1906 - 1992
+      Age:  86
+Biography:  Coined the term "debugging" after removing a moth from the Harvard Mark I computer she was programming in the 1947.
+-------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------
+     Name:  Alan Turing
+ Lifespan:  1912 - 1954
+      Age:  42
+Biography:  Defined what is now referred to as a Turing machine, and is often considered as the founder of computer science.
+-------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------
+| Choose one of the following options:              |
+|(1) Search for person using their first name       |
+|(2) Search for person using their last name        |
+|(3) Search for people using a range of birth years |
+|(4) Quit the program                               |
+-----------------------------------------------------
+3
+
+Enter range of birth years to search (Enter years like following example: 1900 to 1910 ---> 1900 1910): 100 200
+
+There are no matches to the years given.
+
+-----------------------------------------------------
+| Choose one of the following options:              |
+|(1) Search for person using their first name       |
+|(2) Search for person using their last name        |
+|(3) Search for people using a range of birth years |
+|(4) Quit the program                               |
+-----------------------------------------------------
+4
+]0;epmeyers@turing: ~/Linuxstuff/Homework 7[01;32mepmeyers@turing[00m:[01;34m~/Linuxstuff/Homework 7[00m$ exit
+exit
+
+Script done on 2023-05-04 17:51:18-0500
