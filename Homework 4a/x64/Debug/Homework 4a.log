@@ -1,0 +1,9 @@
+﻿  Evan Meyers - Homework 4a.cpp
+C:\Users\minec\source\repos\Homework 4a\Evan Meyers - Homework 4a.cpp(81,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\minec\source\repos\Homework 4a\Evan Meyers - Homework 4a.cpp(82,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\minec\source\repos\Homework 4a\Evan Meyers - Homework 4a.cpp(84,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\minec\source\repos\Homework 4a\Evan Meyers - Homework 4a.cpp(85,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\minec\source\repos\Homework 4a\Evan Meyers - Homework 4a.cpp(87,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\minec\source\repos\Homework 4a\Evan Meyers - Homework 4a.cpp(88,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\minec\source\repos\Homework 4a\Evan Meyers - Homework 4a.cpp(90,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Homework 4a.vcxproj -> C:\Users\minec\source\repos\Homework 4a\x64\Debug\Homework 4a.exe
